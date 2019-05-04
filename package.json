@@ -204,7 +204,7 @@
     "babel-plugin-import-graphql": "2.6.2",
     "babel-plugin-module-resolver": "3.1.1",
     "jest": "23.6.0",
-    "jest-dom": "2.1.1",
+    "jest-dom": "3.1.4",
     "next-purgecss": "3.0.0",
     "next-size": "1.0.1",
     "nodemon": "1.18.7",
